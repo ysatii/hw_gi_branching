@@ -315,3 +315,16 @@ Fast-forward
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_3_1.jpg)  
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_3_2.jpg)  
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_3_3.jpg)  
+
+## Merge
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_4_1.jpg)  
+
+## Rebase
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_1.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_2.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_3.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_4.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_5.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_6.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_7.jpg)  
+
