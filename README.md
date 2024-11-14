@@ -327,4 +327,6 @@ Fast-forward
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_5.jpg)  
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_6.jpg)  
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_7.jpg)  
+![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_5_8.jpg)  
+
 
