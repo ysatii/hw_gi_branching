@@ -303,7 +303,7 @@ Fast-forward
 </details>
 
 
-## ссылка на репозиторий [Репозиторий](https://github.com/ysatii/Git_branching) 
+## ссылка на [репозиторий](https://github.com/ysatii/Git_branching) 
 ## Задание «Ветвление, merge и rebase»
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_1_1.jpg)  
 ![Скриншот 1](https://github.com/ysatii/hw_git_branching/blob/main/img/git_1_2.jpg)  
